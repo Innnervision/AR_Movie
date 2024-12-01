@@ -2,7 +2,6 @@
 
 **AR_Movie** is an Augmented Reality (AR) mobile application that enables users to watch movies in their real-world environment using image tracking. This app leverages AR technology to display movies over specific images, providing a unique and interactive movie-watching experience.
 
-![AR_Movie Screenshot](path/to/your/image.png)  <!-- Replace with actual image link -->
 
 ## Features
 
@@ -66,7 +65,15 @@ Interact with the AR movie by moving the device to change the viewpoint and expl
 Demo Video
 Here’s a quick demonstration of the app in action:
 
-Click the image above to watch the demo.
+
+### Customization:
+1. **Marker Images**:
+   - Replace `[https://github.com/Innnervision/AR_Movie/blob/master/Models/Dragon.jpg]` and `https://github.com/Innnervision/AR_Movie/blob/master/Models/Boss.png` with the paths or URLs of your actual marker images.
+2. **Screenshots**:
+   - Replace `path/to/your/screenshot1.png` and `path/to/your/screenshot2.png` with the paths or URLs of your app screenshots.
+
+This version includes the marker images section and the screenshots section, formatted for easy copy-paste into GitHub. Let me know if you need further adjustments!
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for more details.
