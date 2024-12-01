@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5584406834523870363
+  m_GuidHigh: 11454089353592080292
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4674275989625974616
+      m_GuidHigh: 14549468679269824385
+    m_SerializedTextureGuid:
+      m_GuidLow: 11161201898118069051
+      m_GuidHigh: 3974445877369654792
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: lp
+    m_Texture: {fileID: 2800000, guid: e3be3b3b8dfd9ae4084ea2cb77112837, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4682585408155858891
+      m_GuidHigh: 14498777585606234246
+    m_SerializedTextureGuid:
+      m_GuidLow: 14029910687621521445
+      m_GuidHigh: 9191873191862477576
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Boss
+    m_Texture: {fileID: 2800000, guid: ce232025416fc2b4082366a5f717907f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5659053098312140609
+      m_GuidHigh: 133519900553152395
+    m_SerializedTextureGuid:
+      m_GuidLow: 18204840211214790052
+      m_GuidHigh: 6090586440858061594
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Dragon
+    m_Texture: {fileID: 2800000, guid: fe346da495b7fca41acb2741191c8654, type: 3}
