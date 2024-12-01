@@ -27,15 +27,14 @@ Ensure your mobile device supports AR (most modern Android and iOS devices do).
 
 Start by cloning the repository to your local machine:
 
-```bash
 git clone https://github.com/Innnervision/AR_Movie.git
 
 git clone https://github.com/Innnervision/AR_Movie.git
-Step 2: Open the Project in Unity
+### Step 2: Open the Project in Unity
 Open Unity.
 Go to File > Open Project.
 Navigate to the folder where you cloned the repository and select the project folder.
-Step 3: Install AR Packages
+### Step 3: Install AR Packages
 To enable AR functionality:
 
 Go to Window > Package Manager in Unity.
@@ -43,7 +42,7 @@ Install the following packages:
 AR Foundation
 ARKit XR Plugin (for iOS)
 ARCore XR Plugin (for Android)
-Step 4: Configure Project Settings
+### Step 4: Configure Project Settings
 For Android:
 
 Go to Edit > Project Settings > Player.
@@ -69,12 +68,12 @@ Here’s a quick demonstration of the app in action:
 
 Click the image above to watch the demo.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for more details.
 
-Contact
+## Contact
 For any questions or suggestions, feel free to reach out to the project maintainer:
 
-Sourav Mukherjee
+## Sourav Mukherjee
 Email: souravmukherjee7991@gmail.com
 **LinkedIn**: https://www.linkedin.com/in/sourav-mukherjee-5547a1260/
