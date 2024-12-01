@@ -68,9 +68,8 @@ Here’s a quick demonstration of the app in action:
 
 ### Customization:
 1. **Marker Images**:
-   (https://github.com/Innnervision/AR_Movie/blob/master/Models/Dragon.jpg) and (blob/master/Models/Boss.png)
-2. **Screenshots**:
-   - Replace `path/to/your/screenshot1.png` and `path/to/your/screenshot2.png` with the paths or URLs of your app screenshots.
+   (https://github.com/Innnervision/AR_Movie/blob/master/Models/Dragon.jpg) and (https://github.com/Innnervision/AR_Movie/blob/master/Models/Boss.png).
+
 
 This version includes the marker images section and the screenshots section, formatted for easy copy-paste into GitHub. Let me know if you need further adjustments!
 
