@@ -75,5 +75,5 @@ This project is licensed under the MIT License - see the LICENSE file for more d
 For any questions or suggestions, feel free to reach out to the project maintainer:
 
 ## Sourav Mukherjee
-Email: souravmukherjee7991@gmail.com
+**Email**: souravmukherjee7991@gmail.com   
 **LinkedIn**: https://www.linkedin.com/in/sourav-mukherjee-5547a1260/
