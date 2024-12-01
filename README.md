@@ -67,7 +67,7 @@ Here’s a quick demonstration of the app in action:
 
 
 ### Customization:
-1. **Marker Images**:
+ **Marker Images**:
    (https://github.com/Innnervision/AR_Movie/blob/master/Models/Dragon.jpg) and (https://github.com/Innnervision/AR_Movie/blob/master/Models/Boss.png).
 
 
